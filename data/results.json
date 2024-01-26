@@ -1,0 +1,512 @@
+[
+    {
+        "data": {
+            "search_by_raw_query": {
+                "search_timeline": {
+                    "timeline": {
+                        "instructions": [
+                            {
+                                "type": "TimelineAddEntries",
+                                "entries": [
+                                    {
+                                        "entryId": "tweet-1609690699620024322",
+                                        "sortIndex": "1750945811891486720",
+                                        "content": {
+                                            "entryType": "TimelineTimelineItem",
+                                            "__typename": "TimelineTimelineItem",
+                                            "itemContent": {
+                                                "itemType": "TimelineTweet",
+                                                "__typename": "TimelineTweet",
+                                                "tweet_results": {
+                                                    "result": {
+                                                        "__typename": "Tweet",
+                                                        "rest_id": "1609690699620024322",
+                                                        "core": {
+                                                            "user_results": {
+                                                                "result": {
+                                                                    "__typename": "User",
+                                                                    "id": "VXNlcjoxMTY4ODgwMTExMDgyNDk2MDAx",
+                                                                    "rest_id": "1168880111082496001",
+                                                                    "affiliates_highlighted_label": {},
+                                                                    "has_graduated_access": true,
+                                                                    "is_blue_verified": false,
+                                                                    "profile_image_shape": "Circle",
+                                                                    "legacy": {
+                                                                        "can_dm": true,
+                                                                        "can_media_tag": true,
+                                                                        "created_at": "Tue Sep 03 13:35:16 +0000 2019",
+                                                                        "default_profile": true,
+                                                                        "default_profile_image": false,
+                                                                        "description": "Chair, @NYCCouncil Committee on Education \ud83c\udf4e/Boy Mom \ud83d\udc99 /District 40\ud83d\udccd\ud83c\udfe1/ \ud83c\udded\ud83c\uddf9\ud83c\uddfa\ud83c\uddf8",
+                                                                        "entities": {
+                                                                            "description": {
+                                                                                "urls": []
+                                                                            },
+                                                                            "url": {
+                                                                                "urls": [
+                                                                                    {
+                                                                                        "display_url": "RitaJoseph.com",
+                                                                                        "expanded_url": "http://www.RitaJoseph.com",
+                                                                                        "url": "https://t.co/452Z2MHQ9f",
+                                                                                        "indices": [
+                                                                                            0,
+                                                                                            23
+                                                                                        ]
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        "fast_followers_count": 0,
+                                                                        "favourites_count": 12875,
+                                                                        "followers_count": 9386,
+                                                                        "friends_count": 3458,
+                                                                        "has_custom_timelines": true,
+                                                                        "is_translator": false,
+                                                                        "listed_count": 121,
+                                                                        "location": "Brooklyn, NY",
+                                                                        "media_count": 1346,
+                                                                        "name": "Rita Joseph",
+                                                                        "normal_followers_count": 9386,
+                                                                        "pinned_tweet_ids_str": [],
+                                                                        "possibly_sensitive": false,
+                                                                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1168880111082496001/1678331632",
+                                                                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1633662816329637889/pu0Zap-e_normal.jpg",
+                                                                        "profile_interstitial_type": "",
+                                                                        "screen_name": "RitaJosephNYC",
+                                                                        "statuses_count": 5880,
+                                                                        "translator_type": "none",
+                                                                        "url": "https://t.co/452Z2MHQ9f",
+                                                                        "verified": false,
+                                                                        "want_retweets": false,
+                                                                        "withheld_in_countries": []
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "unmention_data": {},
+                                                        "edit_control": {
+                                                            "edit_tweet_ids": [
+                                                                "1609690699620024322"
+                                                            ],
+                                                            "editable_until_msecs": "1672616944000",
+                                                            "is_edit_eligible": true,
+                                                            "edits_remaining": "5"
+                                                        },
+                                                        "edit_perspective": {
+                                                            "favorited": false,
+                                                            "retweeted": false
+                                                        },
+                                                        "is_translatable": false,
+                                                        "views": {
+                                                            "count": "1140",
+                                                            "state": "EnabledWithCount"
+                                                        },
+                                                        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                                                        "legacy": {
+                                                            "bookmark_count": 0,
+                                                            "bookmarked": false,
+                                                            "created_at": "Sun Jan 01 23:19:04 +0000 2023",
+                                                            "conversation_id_str": "1609690699620024322",
+                                                            "display_text_range": [
+                                                                0,
+                                                                70
+                                                            ],
+                                                            "entities": {
+                                                                "hashtags": [],
+                                                                "media": [
+                                                                    {
+                                                                        "display_url": "pic.twitter.com/qfiPEmehVj",
+                                                                        "expanded_url": "https://twitter.com/RitaJosephNYC/status/1609690699620024322/photo/1",
+                                                                        "id_str": "1609690695488372738",
+                                                                        "indices": [
+                                                                            71,
+                                                                            94
+                                                                        ],
+                                                                        "media_key": "3_1609690695488372738",
+                                                                        "media_url_https": "https://pbs.twimg.com/media/FlbFKLbWAAItiK5.jpg",
+                                                                        "type": "photo",
+                                                                        "url": "https://t.co/qfiPEmehVj",
+                                                                        "ext_media_availability": {
+                                                                            "status": "Available"
+                                                                        },
+                                                                        "features": {
+                                                                            "large": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "medium": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "small": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 173,
+                                                                                        "y": 83,
+                                                                                        "h": 50,
+                                                                                        "w": 50
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 595,
+                                                                                        "y": 545,
+                                                                                        "h": 45,
+                                                                                        "w": 45
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 124,
+                                                                                        "y": 83,
+                                                                                        "h": 50,
+                                                                                        "w": 50
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "orig": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        "sizes": {
+                                                                            "large": {
+                                                                                "h": 1080,
+                                                                                "w": 1080,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "medium": {
+                                                                                "h": 1080,
+                                                                                "w": 1080,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "small": {
+                                                                                "h": 680,
+                                                                                "w": 680,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "thumb": {
+                                                                                "h": 150,
+                                                                                "w": 150,
+                                                                                "resize": "crop"
+                                                                            }
+                                                                        },
+                                                                        "original_info": {
+                                                                            "height": 1080,
+                                                                            "width": 1080,
+                                                                            "focus_rects": [
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 475,
+                                                                                    "w": 1080,
+                                                                                    "h": 605
+                                                                                },
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "w": 1080,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 133,
+                                                                                    "y": 0,
+                                                                                    "w": 947,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 540,
+                                                                                    "y": 0,
+                                                                                    "w": 540,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "w": 1080,
+                                                                                    "h": 1080
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ],
+                                                                "symbols": [],
+                                                                "timestamps": [],
+                                                                "urls": [],
+                                                                "user_mentions": []
+                                                            },
+                                                            "extended_entities": {
+                                                                "media": [
+                                                                    {
+                                                                        "display_url": "pic.twitter.com/qfiPEmehVj",
+                                                                        "expanded_url": "https://twitter.com/RitaJosephNYC/status/1609690699620024322/photo/1",
+                                                                        "id_str": "1609690695488372738",
+                                                                        "indices": [
+                                                                            71,
+                                                                            94
+                                                                        ],
+                                                                        "media_key": "3_1609690695488372738",
+                                                                        "media_url_https": "https://pbs.twimg.com/media/FlbFKLbWAAItiK5.jpg",
+                                                                        "type": "photo",
+                                                                        "url": "https://t.co/qfiPEmehVj",
+                                                                        "ext_media_availability": {
+                                                                            "status": "Available"
+                                                                        },
+                                                                        "features": {
+                                                                            "large": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "medium": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "small": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 173,
+                                                                                        "y": 83,
+                                                                                        "h": 50,
+                                                                                        "w": 50
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 595,
+                                                                                        "y": 545,
+                                                                                        "h": 45,
+                                                                                        "w": 45
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 124,
+                                                                                        "y": 83,
+                                                                                        "h": 50,
+                                                                                        "w": 50
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "orig": {
+                                                                                "faces": [
+                                                                                    {
+                                                                                        "x": 276,
+                                                                                        "y": 133,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 945,
+                                                                                        "y": 866,
+                                                                                        "h": 72,
+                                                                                        "w": 72
+                                                                                    },
+                                                                                    {
+                                                                                        "x": 198,
+                                                                                        "y": 132,
+                                                                                        "h": 80,
+                                                                                        "w": 80
+                                                                                    }
+                                                                                ]
+                                                                            }
+                                                                        },
+                                                                        "sizes": {
+                                                                            "large": {
+                                                                                "h": 1080,
+                                                                                "w": 1080,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "medium": {
+                                                                                "h": 1080,
+                                                                                "w": 1080,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "small": {
+                                                                                "h": 680,
+                                                                                "w": 680,
+                                                                                "resize": "fit"
+                                                                            },
+                                                                            "thumb": {
+                                                                                "h": 150,
+                                                                                "w": 150,
+                                                                                "resize": "crop"
+                                                                            }
+                                                                        },
+                                                                        "original_info": {
+                                                                            "height": 1080,
+                                                                            "width": 1080,
+                                                                            "focus_rects": [
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 475,
+                                                                                    "w": 1080,
+                                                                                    "h": 605
+                                                                                },
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "w": 1080,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 133,
+                                                                                    "y": 0,
+                                                                                    "w": 947,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 540,
+                                                                                    "y": 0,
+                                                                                    "w": 540,
+                                                                                    "h": 1080
+                                                                                },
+                                                                                {
+                                                                                    "x": 0,
+                                                                                    "y": 0,
+                                                                                    "w": 1080,
+                                                                                    "h": 1080
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "favorite_count": 8,
+                                                            "favorited": false,
+                                                            "full_text": "Happy New Year CD 40! Wishing you all good fortune and health in 2023! https://t.co/qfiPEmehVj",
+                                                            "is_quote_status": false,
+                                                            "lang": "en",
+                                                            "possibly_sensitive": false,
+                                                            "possibly_sensitive_editable": true,
+                                                            "quote_count": 0,
+                                                            "reply_count": 1,
+                                                            "retweet_count": 0,
+                                                            "retweeted": false,
+                                                            "user_id_str": "1168880111082496001",
+                                                            "id_str": "1609690699620024322"
+                                                        }
+                                                    }
+                                                },
+                                                "tweetDisplayType": "Tweet"
+                                            },
+                                            "clientEventInfo": {
+                                                "component": "result",
+                                                "element": "tweet",
+                                                "details": {
+                                                    "timelinesDetails": {
+                                                        "controllerData": "DAACDAAFDAABDAABDAABCgABAAAAAAAAAEAAAAwAAgoAAQAAAAAAAABBCgACNcfJW5Rzc0EKAAVb1l0fodiDNggABgAAAAEKAAfJsarvPr1YJwAAAAAA"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "entryId": "cursor-top-9223372036854775807",
+                                        "sortIndex": "9223372036854775807",
+                                        "content": {
+                                            "entryType": "TimelineTimelineCursor",
+                                            "__typename": "TimelineTimelineCursor",
+                                            "value": "DAADDAABCgABFlbFKa0aAAIKAAIWVsUprRoAAgAIAAIAAAABCAADAAAAAAgABAAAAAAKAAUYTJvwYsAnEAoABhhMm_Biv9jwAAA",
+                                            "cursorType": "Top"
+                                        }
+                                    },
+                                    {
+                                        "entryId": "cursor-bottom-0",
+                                        "sortIndex": "0",
+                                        "content": {
+                                            "entryType": "TimelineTimelineCursor",
+                                            "__typename": "TimelineTimelineCursor",
+                                            "value": "DAADDAABCgABFlbFKa0aAAIKAAIWVsUprRoAAgAIAAIAAAACCAADAAAAAAgABAAAAAAKAAUYTJvwYsAnEAoABhhMm_Biv9jwAAA",
+                                            "cursorType": "Bottom"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
