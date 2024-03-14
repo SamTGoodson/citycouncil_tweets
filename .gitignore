@@ -1,4 +1,7 @@
-accounts.json
+*.json
+*.jsonl
+*.csv
+*.txt
 accounts.db
 
 # Byte-compiled / optimized / DLL files
