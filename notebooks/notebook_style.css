@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: 'Georgia', serif; 
+  }
+  
+  table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  div#notebook-container,
+  div#notebook {
+    padding-top: 20px; 
+  }
+  
