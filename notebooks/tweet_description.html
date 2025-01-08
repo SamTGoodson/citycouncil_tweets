@@ -13128,13 +13128,13 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>This twitter dataset is composed of 145,313 tweets beginning in January of 2021 and ending in December of 2023. Of these, 141,807 were authored by members of the 2022-2023 City Council term, the other 3,506 were written by five unsuccessful city council candidates important for analysis, two who lost to DSA members and three DSA members who lost their elections. Tweets by campaign losers range from January of 2021 through hte election in June of that year. Below is a sample of what work can be done with this dataset. At the time of writing, March 2024, more tweets can be easily accessed, but this si liable to change as Twitter (X) updates its terms of service.</p>
+<p>This twitter dataset is composed of 145,313 tweets beginning in January of 2021 and ending in December of 2023. Of these, 141,807 were authored by members of the 2022-2023 City Council term, the other 3,506 were written by five unsuccessful city council candidates important for analysis, two who lost to DSA members and three DSA members who lost their elections. Tweets by campaign losers range from January of 2021 through the election in June of that year. Below is a sample of what work can be done with this dataset. At the time of writing, March 2024, more tweets can be easily accessed, but this is liable to change as Twitter (X) updates its terms of service.</p>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Here is a list of the number of tweets per council member (including public advocate Jumanaae Williams). The mean number of tweets per user in the dataset is 2,727, with a median of 2,535. Some members did not tweet much, which means I will have to lean harder on other methods to cluster them. When they are clustered, other users tweets in their cluster will speak for them, which could cause issues in interpretation. I do not intend to focus explicitly on the election of any of the members who do not tweet much.</p>
+<p>Here is a list of the number of tweets per council member (including public advocate Jumaane Williams). The mean number of tweets per user in the dataset is 2,727, with a median of 2,535. Some members did not tweet much, which means I will have to lean harder on other methods to cluster them. When they are clustered, other users tweets in their cluster will speak for them, which could cause issues in interpretation. I do not intend to focus explicitly on the election of any of the members who do not tweet much.</p>
 </div>
 </div>
 </div>
@@ -13443,7 +13443,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>This data can be put to several uses. Below is a Term Frequency - Inverse Document Frequency (TF-IDF), analysis which examines the terms that makes each council members twitter feed unique.</p>
+<p>This data can be put to several uses. Below is a Term Frequency - Inverse Document Frequency (TF-IDF) analysis which examines the terms that makes each council members twitter feed unique.</p>
 </div>
 </div>
 </div>
@@ -13655,7 +13655,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Another way to slice this data is to examine top terms by ideological faction. This is a complicated process with a lot of subjective input, and the one I will continue to put a lot of thought into throughout the dissertation writing process. For the sake of example here, I based the clustering off of Michael Lange's categorization of New York City politicians. Lange is concerned with finding example politicians at all levels of state and ciy government, so he classifies roughly one third of '22-'24 council members. I used his partial classification, in conjunction with council voting history, as a basis for a supervised machine learning approach to classification. The table below is the result of that approach. The first column, "Lange Faction," are his mappings. The other three columns are different methods of classification. Lange's classification system can be found here:</p>
+<p>Another way to slice this data is to examine top terms by ideological faction. This is a complicated process with a lot of subjective input, and the one I will continue to put a lot of thought into throughout the dissertation writing process. For the sake of example here, I based the clustering off of Michael Lange's categorization of New York City politicians. Lange is concerned with finding example politicians at all levels of state and city government, so he classifies roughly one third of '22-'24 council members. I used his partial classification, in conjunction with council voting history, as a basis for a supervised machine learning approach to classification. The table below is the result of that approach. The first column, "Lange Faction," are his mappings. The other three columns are different methods of classification based on his mappings. Lange's explanation of his classification system can be found here:</p>
 </div>
 </div>
 </div>
@@ -14391,7 +14391,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Housing is obviously a common issues to every faction, which is unsurprising. We assume these factions are talking about housing in a different way and offering diferent solutions. To test this we can pull only tweets that mention housing and see how the terms vary.</p>
+<p>Housing is obviously a common issue to every faction, which is unsurprising. We assume these factions are talking about housing in a different way and offering different solutions. To test this we can pull only tweets that mention housing and see how the terms vary.</p>
 </div>
 </div>
 </div>
@@ -14545,13 +14545,13 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>I have also built a dataset of the Twitter feeds of official political party accounts as well as prominent party clubs. That dataset is currently 15,067 tweets. In a similar fashion to the party factions above, this dataset can bu used to trace the spectrum of party competition.</p>
+<p>I have also built a dataset of the Twitter feeds of official political party accounts as well as prominent party clubs. That dataset is currently 15,067 tweets. In a similar fashion to the party factions above, this dataset can be used to trace the spectrum of party competition.</p>
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>The DSA is set on socialism and words commonly associated with socialist politics. The Dems on teh mechanisms of electoral politics, the GOP on national politics, and the Working Families party seemingly somewhere between the Dems and the DSA.</p>
+<p>The DSA is set on socialism and words commonly associated with socialist politics. The Dems on the mechanisms of electoral politics, the GOP on national politics, and the Working Families party seemingly somewhere between the Dems and the DSA.</p>
 </div>
 </div>
 </div>
@@ -14940,7 +14940,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>We can track the sentiment of the tweets that use these words over time. There are small spikes in the sentiment of police tweets in July of 2021, 2022, and 2023. Perhaps council members are tweeting about more summer public events in which the police play a role, or perhaps they are responding to a summer uptick in crime. Once the sentiment model is better tuned I can begin a more granular analysis of these shift.</p>
+<p>We can track the sentiment of the tweets that use these words over time. There are small spikes in the sentiment of police tweets in July of 2021, 2022, and 2023. Perhaps council members are tweeting about more summer public events in which the police play a role, or perhaps they are responding to a summer uptick in crime. Once the sentiment model is better tuned I can begin a more granular analysis of these shifts.</p>
 </div>
 </div>
 </div>
@@ -14978,6 +14978,8 @@ div#notebook {
 <div class="cell border-box-sizing code_cell rendered">
 </div>
 <div class="cell border-box-sizing code_cell rendered">
+</div>
+<div class="cell border-box-sizing code_cell rendered">
 <div class="output_wrapper">
 <div class="output">
 <div class="output_area">
@@ -14988,7 +14990,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Some topics are clearer than others. Topic 0 (Python indexing always starts with 0) is clearly about the NYPD and topic 1 is is about housing access and workers rights. Topic 3 appears to be primarily about gender issues, topic 6 on schools, etc. As mentioned above, LDA offers a lot of room for small adjustments. I can also include the other Twitter datasets to try and get a clearer sense of the topics.</p>
+<p>Some topics are clearer than others. Topic 0 (Python indexing always starts with 0) is clearly about the NYPD and topic 1 is about housing access and workers rights. Topic 3 appears to be primarily about gender issues, topic 6 on schools, etc. As mentioned above, LDA offers a lot of room for small adjustments. I can also include the other Twitter datasets to try and get a clearer sense of the topics.</p>
 </div>
 </div>
 </div>
